@@ -1,0 +1,753 @@
+﻿  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSAlphaTest "/FhCompiled\AlphaTestEffect_VSAlphaTest.inc" "/FdCompiled\AlphaTestEffect_VSAlphaTest.pdb" /VnAlphaTestEffect_VSAlphaTest
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSAlphaTestNoFog "/FhCompiled\AlphaTestEffect_VSAlphaTestNoFog.inc" "/FdCompiled\AlphaTestEffect_VSAlphaTestNoFog.pdb" /VnAlphaTestEffect_VSAlphaTestNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSAlphaTestVc "/FhCompiled\AlphaTestEffect_VSAlphaTestVc.inc" "/FdCompiled\AlphaTestEffect_VSAlphaTestVc.pdb" /VnAlphaTestEffect_VSAlphaTestVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSAlphaTestVcNoFog "/FhCompiled\AlphaTestEffect_VSAlphaTestVcNoFog.inc" "/FdCompiled\AlphaTestEffect_VSAlphaTestVcNoFog.pdb" /VnAlphaTestEffect_VSAlphaTestVcNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSAlphaTestLtGt "/FhCompiled\AlphaTestEffect_PSAlphaTestLtGt.inc" "/FdCompiled\AlphaTestEffect_PSAlphaTestLtGt.pdb" /VnAlphaTestEffect_PSAlphaTestLtGt
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSAlphaTestLtGtNoFog "/FhCompiled\AlphaTestEffect_PSAlphaTestLtGtNoFog.inc" "/FdCompiled\AlphaTestEffect_PSAlphaTestLtGtNoFog.pdb" /VnAlphaTestEffect_PSAlphaTestLtGtNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSAlphaTestEqNe "/FhCompiled\AlphaTestEffect_PSAlphaTestEqNe.inc" "/FdCompiled\AlphaTestEffect_PSAlphaTestEqNe.pdb" /VnAlphaTestEffect_PSAlphaTestEqNe
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe AlphaTestEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSAlphaTestEqNeNoFog "/FhCompiled\AlphaTestEffect_PSAlphaTestEqNeNoFog.inc" "/FdCompiled\AlphaTestEffect_PSAlphaTestEqNeNoFog.pdb" /VnAlphaTestEffect_PSAlphaTestEqNeNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasic "/FhCompiled\BasicEffect_VSBasic.inc" "/FdCompiled\BasicEffect_VSBasic.pdb" /VnBasicEffect_VSBasic
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicNoFog "/FhCompiled\BasicEffect_VSBasicNoFog.inc" "/FdCompiled\BasicEffect_VSBasicNoFog.pdb" /VnBasicEffect_VSBasicNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVc "/FhCompiled\BasicEffect_VSBasicVc.inc" "/FdCompiled\BasicEffect_VSBasicVc.pdb" /VnBasicEffect_VSBasicVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVcNoFog "/FhCompiled\BasicEffect_VSBasicVcNoFog.inc" "/FdCompiled\BasicEffect_VSBasicVcNoFog.pdb" /VnBasicEffect_VSBasicVcNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicTx "/FhCompiled\BasicEffect_VSBasicTx.inc" "/FdCompiled\BasicEffect_VSBasicTx.pdb" /VnBasicEffect_VSBasicTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicTxNoFog "/FhCompiled\BasicEffect_VSBasicTxNoFog.inc" "/FdCompiled\BasicEffect_VSBasicTxNoFog.pdb" /VnBasicEffect_VSBasicTxNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicTxVc "/FhCompiled\BasicEffect_VSBasicTxVc.inc" "/FdCompiled\BasicEffect_VSBasicTxVc.pdb" /VnBasicEffect_VSBasicTxVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicTxVcNoFog "/FhCompiled\BasicEffect_VSBasicTxVcNoFog.inc" "/FdCompiled\BasicEffect_VSBasicTxVcNoFog.pdb" /VnBasicEffect_VSBasicTxVcNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLighting "/FhCompiled\BasicEffect_VSBasicVertexLighting.inc" "/FdCompiled\BasicEffect_VSBasicVertexLighting.pdb" /VnBasicEffect_VSBasicVertexLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLightingBn "/FhCompiled\BasicEffect_VSBasicVertexLightingBn.inc" "/FdCompiled\BasicEffect_VSBasicVertexLightingBn.pdb" /VnBasicEffect_VSBasicVertexLightingBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLightingVc "/FhCompiled\BasicEffect_VSBasicVertexLightingVc.inc" "/FdCompiled\BasicEffect_VSBasicVertexLightingVc.pdb" /VnBasicEffect_VSBasicVertexLightingVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLightingVcBn "/FhCompiled\BasicEffect_VSBasicVertexLightingVcBn.inc" "/FdCompiled\BasicEffect_VSBasicVertexLightingVcBn.pdb" /VnBasicEffect_VSBasicVertexLightingVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLightingTx "/FhCompiled\BasicEffect_VSBasicVertexLightingTx.inc" "/FdCompiled\BasicEffect_VSBasicVertexLightingTx.pdb" /VnBasicEffect_VSBasicVertexLightingTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLightingTxBn "/FhCompiled\BasicEffect_VSBasicVertexLightingTxBn.inc" "/FdCompiled\BasicEffect_VSBasicVertexLightingTxBn.pdb" /VnBasicEffect_VSBasicVertexLightingTxBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLightingTxVc "/FhCompiled\BasicEffect_VSBasicVertexLightingTxVc.inc" "/FdCompiled\BasicEffect_VSBasicVertexLightingTxVc.pdb" /VnBasicEffect_VSBasicVertexLightingTxVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicVertexLightingTxVcBn "/FhCompiled\BasicEffect_VSBasicVertexLightingTxVcBn.inc" "/FdCompiled\BasicEffect_VSBasicVertexLightingTxVcBn.pdb" /VnBasicEffect_VSBasicVertexLightingTxVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLight "/FhCompiled\BasicEffect_VSBasicOneLight.inc" "/FdCompiled\BasicEffect_VSBasicOneLight.pdb" /VnBasicEffect_VSBasicOneLight
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLightBn "/FhCompiled\BasicEffect_VSBasicOneLightBn.inc" "/FdCompiled\BasicEffect_VSBasicOneLightBn.pdb" /VnBasicEffect_VSBasicOneLightBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLightVc "/FhCompiled\BasicEffect_VSBasicOneLightVc.inc" "/FdCompiled\BasicEffect_VSBasicOneLightVc.pdb" /VnBasicEffect_VSBasicOneLightVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLightVcBn "/FhCompiled\BasicEffect_VSBasicOneLightVcBn.inc" "/FdCompiled\BasicEffect_VSBasicOneLightVcBn.pdb" /VnBasicEffect_VSBasicOneLightVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLightTx "/FhCompiled\BasicEffect_VSBasicOneLightTx.inc" "/FdCompiled\BasicEffect_VSBasicOneLightTx.pdb" /VnBasicEffect_VSBasicOneLightTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLightTxBn "/FhCompiled\BasicEffect_VSBasicOneLightTxBn.inc" "/FdCompiled\BasicEffect_VSBasicOneLightTxBn.pdb" /VnBasicEffect_VSBasicOneLightTxBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLightTxVc "/FhCompiled\BasicEffect_VSBasicOneLightTxVc.inc" "/FdCompiled\BasicEffect_VSBasicOneLightTxVc.pdb" /VnBasicEffect_VSBasicOneLightTxVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicOneLightTxVcBn "/FhCompiled\BasicEffect_VSBasicOneLightTxVcBn.inc" "/FdCompiled\BasicEffect_VSBasicOneLightTxVcBn.pdb" /VnBasicEffect_VSBasicOneLightTxVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLighting "/FhCompiled\BasicEffect_VSBasicPixelLighting.inc" "/FdCompiled\BasicEffect_VSBasicPixelLighting.pdb" /VnBasicEffect_VSBasicPixelLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLightingBn "/FhCompiled\BasicEffect_VSBasicPixelLightingBn.inc" "/FdCompiled\BasicEffect_VSBasicPixelLightingBn.pdb" /VnBasicEffect_VSBasicPixelLightingBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLightingVc "/FhCompiled\BasicEffect_VSBasicPixelLightingVc.inc" "/FdCompiled\BasicEffect_VSBasicPixelLightingVc.pdb" /VnBasicEffect_VSBasicPixelLightingVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLightingVcBn "/FhCompiled\BasicEffect_VSBasicPixelLightingVcBn.inc" "/FdCompiled\BasicEffect_VSBasicPixelLightingVcBn.pdb" /VnBasicEffect_VSBasicPixelLightingVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLightingTx "/FhCompiled\BasicEffect_VSBasicPixelLightingTx.inc" "/FdCompiled\BasicEffect_VSBasicPixelLightingTx.pdb" /VnBasicEffect_VSBasicPixelLightingTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLightingTxBn "/FhCompiled\BasicEffect_VSBasicPixelLightingTxBn.inc" "/FdCompiled\BasicEffect_VSBasicPixelLightingTxBn.pdb" /VnBasicEffect_VSBasicPixelLightingTxBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLightingTxVc "/FhCompiled\BasicEffect_VSBasicPixelLightingTxVc.inc" "/FdCompiled\BasicEffect_VSBasicPixelLightingTxVc.pdb" /VnBasicEffect_VSBasicPixelLightingTxVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSBasicPixelLightingTxVcBn "/FhCompiled\BasicEffect_VSBasicPixelLightingTxVcBn.inc" "/FdCompiled\BasicEffect_VSBasicPixelLightingTxVcBn.pdb" /VnBasicEffect_VSBasicPixelLightingTxVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasic "/FhCompiled\BasicEffect_PSBasic.inc" "/FdCompiled\BasicEffect_PSBasic.pdb" /VnBasicEffect_PSBasic
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicNoFog "/FhCompiled\BasicEffect_PSBasicNoFog.inc" "/FdCompiled\BasicEffect_PSBasicNoFog.pdb" /VnBasicEffect_PSBasicNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicTx "/FhCompiled\BasicEffect_PSBasicTx.inc" "/FdCompiled\BasicEffect_PSBasicTx.pdb" /VnBasicEffect_PSBasicTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicTxNoFog "/FhCompiled\BasicEffect_PSBasicTxNoFog.inc" "/FdCompiled\BasicEffect_PSBasicTxNoFog.pdb" /VnBasicEffect_PSBasicTxNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicVertexLighting "/FhCompiled\BasicEffect_PSBasicVertexLighting.inc" "/FdCompiled\BasicEffect_PSBasicVertexLighting.pdb" /VnBasicEffect_PSBasicVertexLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicVertexLightingNoFog "/FhCompiled\BasicEffect_PSBasicVertexLightingNoFog.inc" "/FdCompiled\BasicEffect_PSBasicVertexLightingNoFog.pdb" /VnBasicEffect_PSBasicVertexLightingNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicVertexLightingTx "/FhCompiled\BasicEffect_PSBasicVertexLightingTx.inc" "/FdCompiled\BasicEffect_PSBasicVertexLightingTx.pdb" /VnBasicEffect_PSBasicVertexLightingTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicVertexLightingTxNoFog "/FhCompiled\BasicEffect_PSBasicVertexLightingTxNoFog.inc" "/FdCompiled\BasicEffect_PSBasicVertexLightingTxNoFog.pdb" /VnBasicEffect_PSBasicVertexLightingTxNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicPixelLighting "/FhCompiled\BasicEffect_PSBasicPixelLighting.inc" "/FdCompiled\BasicEffect_PSBasicPixelLighting.pdb" /VnBasicEffect_PSBasicPixelLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe BasicEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSBasicPixelLightingTx "/FhCompiled\BasicEffect_PSBasicPixelLightingTx.inc" "/FdCompiled\BasicEffect_PSBasicPixelLightingTx.pdb" /VnBasicEffect_PSBasicPixelLightingTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DualTextureEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSDualTexture "/FhCompiled\DualTextureEffect_VSDualTexture.inc" "/FdCompiled\DualTextureEffect_VSDualTexture.pdb" /VnDualTextureEffect_VSDualTexture
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DualTextureEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSDualTextureNoFog "/FhCompiled\DualTextureEffect_VSDualTextureNoFog.inc" "/FdCompiled\DualTextureEffect_VSDualTextureNoFog.pdb" /VnDualTextureEffect_VSDualTextureNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DualTextureEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSDualTextureVc "/FhCompiled\DualTextureEffect_VSDualTextureVc.inc" "/FdCompiled\DualTextureEffect_VSDualTextureVc.pdb" /VnDualTextureEffect_VSDualTextureVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DualTextureEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSDualTextureVcNoFog "/FhCompiled\DualTextureEffect_VSDualTextureVcNoFog.inc" "/FdCompiled\DualTextureEffect_VSDualTextureVcNoFog.pdb" /VnDualTextureEffect_VSDualTextureVcNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DualTextureEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSDualTexture "/FhCompiled\DualTextureEffect_PSDualTexture.inc" "/FdCompiled\DualTextureEffect_PSDualTexture.pdb" /VnDualTextureEffect_PSDualTexture
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DualTextureEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSDualTextureNoFog "/FhCompiled\DualTextureEffect_PSDualTextureNoFog.inc" "/FdCompiled\DualTextureEffect_PSDualTextureNoFog.pdb" /VnDualTextureEffect_PSDualTextureNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMap "/FhCompiled\EnvironmentMapEffect_VSEnvMap.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMap.pdb" /VnEnvironmentMapEffect_VSEnvMap
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapBn "/FhCompiled\EnvironmentMapEffect_VSEnvMapBn.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapBn.pdb" /VnEnvironmentMapEffect_VSEnvMapBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapFresnel "/FhCompiled\EnvironmentMapEffect_VSEnvMapFresnel.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapFresnel.pdb" /VnEnvironmentMapEffect_VSEnvMapFresnel
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapFresnelBn "/FhCompiled\EnvironmentMapEffect_VSEnvMapFresnelBn.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapFresnelBn.pdb" /VnEnvironmentMapEffect_VSEnvMapFresnelBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapOneLight "/FhCompiled\EnvironmentMapEffect_VSEnvMapOneLight.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapOneLight.pdb" /VnEnvironmentMapEffect_VSEnvMapOneLight
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapOneLightBn "/FhCompiled\EnvironmentMapEffect_VSEnvMapOneLightBn.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapOneLightBn.pdb" /VnEnvironmentMapEffect_VSEnvMapOneLightBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapOneLightFresnel "/FhCompiled\EnvironmentMapEffect_VSEnvMapOneLightFresnel.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapOneLightFresnel.pdb" /VnEnvironmentMapEffect_VSEnvMapOneLightFresnel
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapOneLightFresnelBn "/FhCompiled\EnvironmentMapEffect_VSEnvMapOneLightFresnelBn.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapOneLightFresnelBn.pdb" /VnEnvironmentMapEffect_VSEnvMapOneLightFresnelBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapPixelLighting "/FhCompiled\EnvironmentMapEffect_VSEnvMapPixelLighting.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapPixelLighting.pdb" /VnEnvironmentMapEffect_VSEnvMapPixelLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSEnvMapPixelLightingBn "/FhCompiled\EnvironmentMapEffect_VSEnvMapPixelLightingBn.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapPixelLightingBn.pdb" /VnEnvironmentMapEffect_VSEnvMapPixelLightingBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSEnvMapPixelLightingSM4 "/FhCompiled\EnvironmentMapEffect_VSEnvMapPixelLightingSM4.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapPixelLightingSM4.pdb" /VnEnvironmentMapEffect_VSEnvMapPixelLightingSM4
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSEnvMapPixelLightingBnSM4 "/FhCompiled\EnvironmentMapEffect_VSEnvMapPixelLightingBnSM4.inc" "/FdCompiled\EnvironmentMapEffect_VSEnvMapPixelLightingBnSM4.pdb" /VnEnvironmentMapEffect_VSEnvMapPixelLightingBnSM4
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMap "/FhCompiled\EnvironmentMapEffect_PSEnvMap.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMap.pdb" /VnEnvironmentMapEffect_PSEnvMap
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapSpecular "/FhCompiled\EnvironmentMapEffect_PSEnvMapSpecular.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapSpecular.pdb" /VnEnvironmentMapEffect_PSEnvMapSpecular
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapSpecularNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapSpecularNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapSpecularNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapSpecularNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapPixelLighting "/FhCompiled\EnvironmentMapEffect_PSEnvMapPixelLighting.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapPixelLighting.pdb" /VnEnvironmentMapEffect_PSEnvMapPixelLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapPixelLightingNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapPixelLightingNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapPixelLightingNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapPixelLightingNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapPixelLightingFresnel "/FhCompiled\EnvironmentMapEffect_PSEnvMapPixelLightingFresnel.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapPixelLightingFresnel.pdb" /VnEnvironmentMapEffect_PSEnvMapPixelLightingFresnel
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapPixelLightingFresnelNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapPixelLightingFresnelNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapPixelLightingFresnelNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapPixelLightingFresnelNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapSpherePixelLighting "/FhCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLighting.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLighting.pdb" /VnEnvironmentMapEffect_PSEnvMapSpherePixelLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapSpherePixelLightingNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLightingNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLightingNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapSpherePixelLightingNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapSpherePixelLightingFresnel "/FhCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLightingFresnel.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLightingFresnel.pdb" /VnEnvironmentMapEffect_PSEnvMapSpherePixelLightingFresnel
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSEnvMapSpherePixelLightingFresnelNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLightingFresnelNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapSpherePixelLightingFresnelNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapSpherePixelLightingFresnelNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSEnvMapDualParabolaPixelLighting "/FhCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLighting.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLighting.pdb" /VnEnvironmentMapEffect_PSEnvMapDualParabolaPixelLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSEnvMapDualParabolaPixelLightingNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSEnvMapDualParabolaPixelLightingFresnel "/FhCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingFresnel.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingFresnel.pdb" /VnEnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingFresnel
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe EnvironmentMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSEnvMapDualParabolaPixelLightingFresnelNoFog "/FhCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingFresnelNoFog.inc" "/FdCompiled\EnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingFresnelNoFog.pdb" /VnEnvironmentMapEffect_PSEnvMapDualParabolaPixelLightingFresnelNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedVertexLightingOneBone "/FhCompiled\SkinnedEffect_VSSkinnedVertexLightingOneBone.inc" "/FdCompiled\SkinnedEffect_VSSkinnedVertexLightingOneBone.pdb" /VnSkinnedEffect_VSSkinnedVertexLightingOneBone
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedVertexLightingOneBoneBn "/FhCompiled\SkinnedEffect_VSSkinnedVertexLightingOneBoneBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedVertexLightingOneBoneBn.pdb" /VnSkinnedEffect_VSSkinnedVertexLightingOneBoneBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedVertexLightingTwoBones "/FhCompiled\SkinnedEffect_VSSkinnedVertexLightingTwoBones.inc" "/FdCompiled\SkinnedEffect_VSSkinnedVertexLightingTwoBones.pdb" /VnSkinnedEffect_VSSkinnedVertexLightingTwoBones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedVertexLightingTwoBonesBn "/FhCompiled\SkinnedEffect_VSSkinnedVertexLightingTwoBonesBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedVertexLightingTwoBonesBn.pdb" /VnSkinnedEffect_VSSkinnedVertexLightingTwoBonesBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedVertexLightingFourBones "/FhCompiled\SkinnedEffect_VSSkinnedVertexLightingFourBones.inc" "/FdCompiled\SkinnedEffect_VSSkinnedVertexLightingFourBones.pdb" /VnSkinnedEffect_VSSkinnedVertexLightingFourBones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedVertexLightingFourBonesBn "/FhCompiled\SkinnedEffect_VSSkinnedVertexLightingFourBonesBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedVertexLightingFourBonesBn.pdb" /VnSkinnedEffect_VSSkinnedVertexLightingFourBonesBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedOneLightOneBone "/FhCompiled\SkinnedEffect_VSSkinnedOneLightOneBone.inc" "/FdCompiled\SkinnedEffect_VSSkinnedOneLightOneBone.pdb" /VnSkinnedEffect_VSSkinnedOneLightOneBone
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedOneLightOneBoneBn "/FhCompiled\SkinnedEffect_VSSkinnedOneLightOneBoneBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedOneLightOneBoneBn.pdb" /VnSkinnedEffect_VSSkinnedOneLightOneBoneBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedOneLightTwoBones "/FhCompiled\SkinnedEffect_VSSkinnedOneLightTwoBones.inc" "/FdCompiled\SkinnedEffect_VSSkinnedOneLightTwoBones.pdb" /VnSkinnedEffect_VSSkinnedOneLightTwoBones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedOneLightTwoBonesBn "/FhCompiled\SkinnedEffect_VSSkinnedOneLightTwoBonesBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedOneLightTwoBonesBn.pdb" /VnSkinnedEffect_VSSkinnedOneLightTwoBonesBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedOneLightFourBones "/FhCompiled\SkinnedEffect_VSSkinnedOneLightFourBones.inc" "/FdCompiled\SkinnedEffect_VSSkinnedOneLightFourBones.pdb" /VnSkinnedEffect_VSSkinnedOneLightFourBones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedOneLightFourBonesBn "/FhCompiled\SkinnedEffect_VSSkinnedOneLightFourBonesBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedOneLightFourBonesBn.pdb" /VnSkinnedEffect_VSSkinnedOneLightFourBonesBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedPixelLightingOneBone "/FhCompiled\SkinnedEffect_VSSkinnedPixelLightingOneBone.inc" "/FdCompiled\SkinnedEffect_VSSkinnedPixelLightingOneBone.pdb" /VnSkinnedEffect_VSSkinnedPixelLightingOneBone
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedPixelLightingOneBoneBn "/FhCompiled\SkinnedEffect_VSSkinnedPixelLightingOneBoneBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedPixelLightingOneBoneBn.pdb" /VnSkinnedEffect_VSSkinnedPixelLightingOneBoneBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedPixelLightingTwoBones "/FhCompiled\SkinnedEffect_VSSkinnedPixelLightingTwoBones.inc" "/FdCompiled\SkinnedEffect_VSSkinnedPixelLightingTwoBones.pdb" /VnSkinnedEffect_VSSkinnedPixelLightingTwoBones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedPixelLightingTwoBonesBn "/FhCompiled\SkinnedEffect_VSSkinnedPixelLightingTwoBonesBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedPixelLightingTwoBonesBn.pdb" /VnSkinnedEffect_VSSkinnedPixelLightingTwoBonesBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedPixelLightingFourBones "/FhCompiled\SkinnedEffect_VSSkinnedPixelLightingFourBones.inc" "/FdCompiled\SkinnedEffect_VSSkinnedPixelLightingFourBones.pdb" /VnSkinnedEffect_VSSkinnedPixelLightingFourBones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EVSSkinnedPixelLightingFourBonesBn "/FhCompiled\SkinnedEffect_VSSkinnedPixelLightingFourBonesBn.inc" "/FdCompiled\SkinnedEffect_VSSkinnedPixelLightingFourBonesBn.pdb" /VnSkinnedEffect_VSSkinnedPixelLightingFourBonesBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSSkinnedVertexLighting "/FhCompiled\SkinnedEffect_PSSkinnedVertexLighting.inc" "/FdCompiled\SkinnedEffect_PSSkinnedVertexLighting.pdb" /VnSkinnedEffect_PSSkinnedVertexLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSSkinnedVertexLightingNoFog "/FhCompiled\SkinnedEffect_PSSkinnedVertexLightingNoFog.inc" "/FdCompiled\SkinnedEffect_PSSkinnedVertexLightingNoFog.pdb" /VnSkinnedEffect_PSSkinnedVertexLightingNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SkinnedEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EPSSkinnedPixelLighting "/FhCompiled\SkinnedEffect_PSSkinnedPixelLighting.inc" "/FdCompiled\SkinnedEffect_PSSkinnedPixelLighting.pdb" /VnSkinnedEffect_PSSkinnedPixelLighting
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTx "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTx.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTx.pdb" /VnNormalMapEffect_VSNormalPixelLightingTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTxBn "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTxBn.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTxBn.pdb" /VnNormalMapEffect_VSNormalPixelLightingTxBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTxVc "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTxVc.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTxVc.pdb" /VnNormalMapEffect_VSNormalPixelLightingTxVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTxVcBn "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTxVcBn.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTxVcBn.pdb" /VnNormalMapEffect_VSNormalPixelLightingTxVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTxInst "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTxInst.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTxInst.pdb" /VnNormalMapEffect_VSNormalPixelLightingTxInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTxBnInst "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTxBnInst.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTxBnInst.pdb" /VnNormalMapEffect_VSNormalPixelLightingTxBnInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTxVcInst "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTxVcInst.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTxVcInst.pdb" /VnNormalMapEffect_VSNormalPixelLightingTxVcInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSNormalPixelLightingTxVcBnInst "/FhCompiled\NormalMapEffect_VSNormalPixelLightingTxVcBnInst.inc" "/FdCompiled\NormalMapEffect_VSNormalPixelLightingTxVcBnInst.pdb" /VnNormalMapEffect_VSNormalPixelLightingTxVcBnInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSSkinnedPixelLightingTx "/FhCompiled\NormalMapEffect_VSSkinnedPixelLightingTx.inc" "/FdCompiled\NormalMapEffect_VSSkinnedPixelLightingTx.pdb" /VnNormalMapEffect_VSSkinnedPixelLightingTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSSkinnedPixelLightingTxBn "/FhCompiled\NormalMapEffect_VSSkinnedPixelLightingTxBn.inc" "/FdCompiled\NormalMapEffect_VSSkinnedPixelLightingTxBn.pdb" /VnNormalMapEffect_VSSkinnedPixelLightingTxBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSNormalPixelLightingTx "/FhCompiled\NormalMapEffect_PSNormalPixelLightingTx.inc" "/FdCompiled\NormalMapEffect_PSNormalPixelLightingTx.pdb" /VnNormalMapEffect_PSNormalPixelLightingTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSNormalPixelLightingTxNoFog "/FhCompiled\NormalMapEffect_PSNormalPixelLightingTxNoFog.inc" "/FdCompiled\NormalMapEffect_PSNormalPixelLightingTxNoFog.pdb" /VnNormalMapEffect_PSNormalPixelLightingTxNoFog
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSNormalPixelLightingTxNoSpec "/FhCompiled\NormalMapEffect_PSNormalPixelLightingTxNoSpec.inc" "/FdCompiled\NormalMapEffect_PSNormalPixelLightingTxNoSpec.pdb" /VnNormalMapEffect_PSNormalPixelLightingTxNoSpec
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe NormalMapEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSNormalPixelLightingTxNoFogSpec "/FhCompiled\NormalMapEffect_PSNormalPixelLightingTxNoFogSpec.inc" "/FdCompiled\NormalMapEffect_PSNormalPixelLightingTxNoFogSpec.pdb" /VnNormalMapEffect_PSNormalPixelLightingTxNoFogSpec
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSConstant "/FhCompiled\PBREffect_VSConstant.inc" "/FdCompiled\PBREffect_VSConstant.pdb" /VnPBREffect_VSConstant
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSConstantInst "/FhCompiled\PBREffect_VSConstantInst.inc" "/FdCompiled\PBREffect_VSConstantInst.pdb" /VnPBREffect_VSConstantInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSConstantVelocity "/FhCompiled\PBREffect_VSConstantVelocity.inc" "/FdCompiled\PBREffect_VSConstantVelocity.pdb" /VnPBREffect_VSConstantVelocity
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSConstantBn "/FhCompiled\PBREffect_VSConstantBn.inc" "/FdCompiled\PBREffect_VSConstantBn.pdb" /VnPBREffect_VSConstantBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSConstantBnInst "/FhCompiled\PBREffect_VSConstantBnInst.inc" "/FdCompiled\PBREffect_VSConstantBnInst.pdb" /VnPBREffect_VSConstantBnInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSConstantVelocityBn "/FhCompiled\PBREffect_VSConstantVelocityBn.inc" "/FdCompiled\PBREffect_VSConstantVelocityBn.pdb" /VnPBREffect_VSConstantVelocityBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSSkinned "/FhCompiled\PBREffect_VSSkinned.inc" "/FdCompiled\PBREffect_VSSkinned.pdb" /VnPBREffect_VSSkinned
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSSkinnedBn "/FhCompiled\PBREffect_VSSkinnedBn.inc" "/FdCompiled\PBREffect_VSSkinnedBn.pdb" /VnPBREffect_VSSkinnedBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSConstant "/FhCompiled\PBREffect_PSConstant.inc" "/FdCompiled\PBREffect_PSConstant.pdb" /VnPBREffect_PSConstant
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSTextured "/FhCompiled\PBREffect_PSTextured.inc" "/FdCompiled\PBREffect_PSTextured.pdb" /VnPBREffect_PSTextured
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSTexturedEmissive "/FhCompiled\PBREffect_PSTexturedEmissive.inc" "/FdCompiled\PBREffect_PSTexturedEmissive.pdb" /VnPBREffect_PSTexturedEmissive
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSTexturedVelocity "/FhCompiled\PBREffect_PSTexturedVelocity.inc" "/FdCompiled\PBREffect_PSTexturedVelocity.pdb" /VnPBREffect_PSTexturedVelocity
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PBREffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSTexturedEmissiveVelocity "/FhCompiled\PBREffect_PSTexturedEmissiveVelocity.inc" "/FdCompiled\PBREffect_PSTexturedEmissiveVelocity.pdb" /VnPBREffect_PSTexturedEmissiveVelocity
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebug "/FhCompiled\DebugEffect_VSDebug.inc" "/FdCompiled\DebugEffect_VSDebug.pdb" /VnDebugEffect_VSDebug
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebugBn "/FhCompiled\DebugEffect_VSDebugBn.inc" "/FdCompiled\DebugEffect_VSDebugBn.pdb" /VnDebugEffect_VSDebugBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebugVc "/FhCompiled\DebugEffect_VSDebugVc.inc" "/FdCompiled\DebugEffect_VSDebugVc.pdb" /VnDebugEffect_VSDebugVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebugVcBn "/FhCompiled\DebugEffect_VSDebugVcBn.inc" "/FdCompiled\DebugEffect_VSDebugVcBn.pdb" /VnDebugEffect_VSDebugVcBn
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebugInst "/FhCompiled\DebugEffect_VSDebugInst.inc" "/FdCompiled\DebugEffect_VSDebugInst.pdb" /VnDebugEffect_VSDebugInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebugBnInst "/FhCompiled\DebugEffect_VSDebugBnInst.inc" "/FdCompiled\DebugEffect_VSDebugBnInst.pdb" /VnDebugEffect_VSDebugBnInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebugVcInst "/FhCompiled\DebugEffect_VSDebugVcInst.inc" "/FdCompiled\DebugEffect_VSDebugVcInst.pdb" /VnDebugEffect_VSDebugVcInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSDebugVcBnInst "/FhCompiled\DebugEffect_VSDebugVcBnInst.inc" "/FdCompiled\DebugEffect_VSDebugVcBnInst.pdb" /VnDebugEffect_VSDebugVcBnInst
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSHemiAmbient "/FhCompiled\DebugEffect_PSHemiAmbient.inc" "/FdCompiled\DebugEffect_PSHemiAmbient.pdb" /VnDebugEffect_PSHemiAmbient
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSRGBNormals "/FhCompiled\DebugEffect_PSRGBNormals.inc" "/FdCompiled\DebugEffect_PSRGBNormals.pdb" /VnDebugEffect_PSRGBNormals
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSRGBTangents "/FhCompiled\DebugEffect_PSRGBTangents.inc" "/FdCompiled\DebugEffect_PSRGBTangents.pdb" /VnDebugEffect_PSRGBTangents
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DebugEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSRGBBiTangents "/FhCompiled\DebugEffect_PSRGBBiTangents.inc" "/FdCompiled\DebugEffect_PSRGBBiTangents.pdb" /VnDebugEffect_PSRGBBiTangents
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SpriteEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /ESpriteVertexShader "/FhCompiled\SpriteEffect_SpriteVertexShader.inc" "/FdCompiled\SpriteEffect_SpriteVertexShader.pdb" /VnSpriteEffect_SpriteVertexShader
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe SpriteEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /ESpritePixelShader "/FhCompiled\SpriteEffect_SpritePixelShader.inc" "/FdCompiled\SpriteEffect_SpritePixelShader.pdb" /VnSpriteEffect_SpritePixelShader
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /Emain "/FhCompiled\DGSLEffect_main.inc" "/FdCompiled\DGSLEffect_main.pdb" /VnDGSLEffect_main
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /EmainVc "/FhCompiled\DGSLEffect_mainVc.inc" "/FdCompiled\DGSLEffect_mainVc.pdb" /VnDGSLEffect_mainVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /Emain1Bones "/FhCompiled\DGSLEffect_main1Bones.inc" "/FdCompiled\DGSLEffect_main1Bones.pdb" /VnDGSLEffect_main1Bones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /Emain1BonesVc "/FhCompiled\DGSLEffect_main1BonesVc.inc" "/FdCompiled\DGSLEffect_main1BonesVc.pdb" /VnDGSLEffect_main1BonesVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /Emain2Bones "/FhCompiled\DGSLEffect_main2Bones.inc" "/FdCompiled\DGSLEffect_main2Bones.pdb" /VnDGSLEffect_main2Bones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /Emain2BonesVc "/FhCompiled\DGSLEffect_main2BonesVc.inc" "/FdCompiled\DGSLEffect_main2BonesVc.pdb" /VnDGSLEffect_main2BonesVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /Emain4Bones "/FhCompiled\DGSLEffect_main4Bones.inc" "/FdCompiled\DGSLEffect_main4Bones.pdb" /VnDGSLEffect_main4Bones
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLEffect.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0_level_9_1 /Emain4BonesVc "/FhCompiled\DGSLEffect_main4BonesVc.inc" "/FdCompiled\DGSLEffect_main4BonesVc.pdb" /VnDGSLEffect_main4BonesVc
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLUnlit.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /Emain "/FhCompiled\DGSLUnlit_main.inc" "/FdCompiled\DGSLUnlit_main.pdb" /VnDGSLUnlit_main
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLLambert.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /Emain "/FhCompiled\DGSLLambert_main.inc" "/FdCompiled\DGSLLambert_main.pdb" /VnDGSLLambert_main
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLPhong.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /Emain "/FhCompiled\DGSLPhong_main.inc" "/FdCompiled\DGSLPhong_main.pdb" /VnDGSLPhong_main
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLUnlit.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTk "/FhCompiled\DGSLUnlit_mainTk.inc" "/FdCompiled\DGSLUnlit_mainTk.pdb" /VnDGSLUnlit_mainTk
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLLambert.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTk "/FhCompiled\DGSLLambert_mainTk.inc" "/FdCompiled\DGSLLambert_mainTk.pdb" /VnDGSLLambert_mainTk
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLPhong.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTk "/FhCompiled\DGSLPhong_mainTk.inc" "/FdCompiled\DGSLPhong_mainTk.pdb" /VnDGSLPhong_mainTk
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLUnlit.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTx "/FhCompiled\DGSLUnlit_mainTx.inc" "/FdCompiled\DGSLUnlit_mainTx.pdb" /VnDGSLUnlit_mainTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLLambert.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTx "/FhCompiled\DGSLLambert_mainTx.inc" "/FdCompiled\DGSLLambert_mainTx.pdb" /VnDGSLLambert_mainTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLPhong.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTx "/FhCompiled\DGSLPhong_mainTx.inc" "/FdCompiled\DGSLPhong_mainTx.pdb" /VnDGSLPhong_mainTx
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLUnlit.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTxTk "/FhCompiled\DGSLUnlit_mainTxTk.inc" "/FdCompiled\DGSLUnlit_mainTxTk.pdb" /VnDGSLUnlit_mainTxTk
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLLambert.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTxTk "/FhCompiled\DGSLLambert_mainTxTk.inc" "/FdCompiled\DGSLLambert_mainTxTk.pdb" /VnDGSLLambert_mainTxTk
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe DGSLPhong.hlsl /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0_level_9_1 /EmainTxTk "/FhCompiled\DGSLPhong_mainTxTk.inc" "/FdCompiled\DGSLPhong_mainTxTk.pdb" /VnDGSLPhong_mainTxTk
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSQuad "/FhCompiled\PostProcess_VSQuad.inc" "/FdCompiled\PostProcess_VSQuad.pdb" /VnPostProcess_VSQuad
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSCopy "/FhCompiled\PostProcess_PSCopy.inc" "/FdCompiled\PostProcess_PSCopy.pdb" /VnPostProcess_PSCopy
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSMonochrome "/FhCompiled\PostProcess_PSMonochrome.inc" "/FdCompiled\PostProcess_PSMonochrome.pdb" /VnPostProcess_PSMonochrome
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSSepia "/FhCompiled\PostProcess_PSSepia.inc" "/FdCompiled\PostProcess_PSSepia.pdb" /VnPostProcess_PSSepia
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSDownScale2x2 "/FhCompiled\PostProcess_PSDownScale2x2.inc" "/FdCompiled\PostProcess_PSDownScale2x2.pdb" /VnPostProcess_PSDownScale2x2
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSDownScale4x4 "/FhCompiled\PostProcess_PSDownScale4x4.inc" "/FdCompiled\PostProcess_PSDownScale4x4.pdb" /VnPostProcess_PSDownScale4x4
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSGaussianBlur5x5 "/FhCompiled\PostProcess_PSGaussianBlur5x5.inc" "/FdCompiled\PostProcess_PSGaussianBlur5x5.pdb" /VnPostProcess_PSGaussianBlur5x5
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSBloomExtract "/FhCompiled\PostProcess_PSBloomExtract.inc" "/FdCompiled\PostProcess_PSBloomExtract.pdb" /VnPostProcess_PSBloomExtract
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSBloomBlur "/FhCompiled\PostProcess_PSBloomBlur.inc" "/FdCompiled\PostProcess_PSBloomBlur.pdb" /VnPostProcess_PSBloomBlur
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSMerge "/FhCompiled\PostProcess_PSMerge.inc" "/FdCompiled\PostProcess_PSMerge.pdb" /VnPostProcess_PSMerge
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe PostProcess.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSBloomCombine "/FhCompiled\PostProcess_PSBloomCombine.inc" "/FdCompiled\PostProcess_PSBloomCombine.pdb" /VnPostProcess_PSBloomCombine
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tvs_4_0 /EVSQuad "/FhCompiled\ToneMap_VSQuad.inc" "/FdCompiled\ToneMap_VSQuad.pdb" /VnToneMap_VSQuad
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSCopy "/FhCompiled\ToneMap_PSCopy.inc" "/FdCompiled\ToneMap_PSCopy.pdb" /VnToneMap_PSCopy
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSSaturate "/FhCompiled\ToneMap_PSSaturate.inc" "/FdCompiled\ToneMap_PSSaturate.pdb" /VnToneMap_PSSaturate
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSReinhard "/FhCompiled\ToneMap_PSReinhard.inc" "/FdCompiled\ToneMap_PSReinhard.pdb" /VnToneMap_PSReinhard
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSACESFilmic "/FhCompiled\ToneMap_PSACESFilmic.inc" "/FdCompiled\ToneMap_PSACESFilmic.pdb" /VnToneMap_PSACESFilmic
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPS_SRGB "/FhCompiled\ToneMap_PS_SRGB.inc" "/FdCompiled\ToneMap_PS_SRGB.pdb" /VnToneMap_PS_SRGB
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSSaturate_SRGB "/FhCompiled\ToneMap_PSSaturate_SRGB.inc" "/FdCompiled\ToneMap_PSSaturate_SRGB.pdb" /VnToneMap_PSSaturate_SRGB
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSReinhard_SRGB "/FhCompiled\ToneMap_PSReinhard_SRGB.inc" "/FdCompiled\ToneMap_PSReinhard_SRGB.pdb" /VnToneMap_PSReinhard_SRGB
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSACESFilmic_SRGB "/FhCompiled\ToneMap_PSACESFilmic_SRGB.inc" "/FdCompiled\ToneMap_PSACESFilmic_SRGB.pdb" /VnToneMap_PSACESFilmic_SRGB
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  fxc.exe ToneMap.fx /nologo /WX /Ges /Zi /Zpc /Qstrip_reflect /Qstrip_debug /Tps_4_0 /EPSHDR10 "/FhCompiled\ToneMap_PSHDR10.inc" "/FdCompiled\ToneMap_PSHDR10.pdb" /VnToneMap_PSHDR10
+  'fxc.exe' is not recognized as an internal or external command,
+  operable program or batch file.
+  
+  There were shader compilation errors!
+D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(495,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  pch.cpp
+C:\Users\Kamyabi\Desktop\AIsummerClass\Code\X\External\DirectXTK\Src\pch.h(92,10): fatal error C1083: Cannot open include file: 'Windows.h': No such file or directory
